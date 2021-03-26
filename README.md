@@ -10,7 +10,7 @@ This project goes through several steps Image processing basics as part of compu
 * Get familiar with RGB channels
 * Differences between Matplotlib and OpenCV
 * Resize & Flip an Image
-* Draw Shapes on an Image (Part 1)
+* Draw Shapes on an Image
 * Draw with the Mouse
 * Event Choices for the Mouse
 * Mouse Functionality
